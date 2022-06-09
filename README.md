@@ -1,5 +1,5 @@
 # Horn-graph-dataset
-Horn-graph-dataset for five proxy tasks
+Horn-graph-dataset for five proxy tasks.
 
 
 For one program verification problem, we have the following corresponding files:
