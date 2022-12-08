@@ -1,3 +1,4 @@
+
 # Horn-graph-dataset
 Horn-graph-dataset for five proxy tasks.
 
@@ -38,3 +39,18 @@ Aided Design (FMCAD), 2018, pp. 1–7. doi:10.23919/FMCAD.2018.8603013.
 
 [3] E. R. Gansner, E. Koutsofios, S. North, Drawing graphs with dot, 2015. URL: https://
 www.graphviz.org/pdf/dotguide.pdf.
+
+
+This work has turn to a publication "Exploring Representation of Horn Clauses using GNNs"
+Citation:
+@misc{https://doi.org/10.48550/arxiv.2206.06986,
+  doi = {10.48550/ARXIV.2206.06986},
+  url = {https://arxiv.org/abs/2206.06986},
+  author = {Liang, Chencheng and Rümmer, Philipp and Brockschmidt, Marc},
+  keywords = {Artificial Intelligence (cs.AI), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Exploring Representation of Horn Clauses using GNNs (Extended Technical Report)},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+
